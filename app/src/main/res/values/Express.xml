@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TextFrom1">
+        <font  size="30" fgcolor = '#1DC533'>Анализы</font>
+        <font size="20" fgcolor = '#8C8787'>Экспресс сбор и получение проб</font>
+    </string>
+</resources>
